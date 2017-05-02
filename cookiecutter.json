@@ -1,0 +1,9 @@
+{
+    "project_name": "project",
+    "module_name": "ModuleName",
+    "author": "Pat",
+    "short_description": "A short description",
+    "url": "https://github.com/user/project.git",
+    "version": "0.0.0",
+    "year": "2017"
+}
